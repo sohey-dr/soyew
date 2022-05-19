@@ -1,5 +1,7 @@
 # soyew
 
+yewで開発されているWebサイト
+
 ## Getting Started
 
 以下の順番でコマンドを実行してください。
