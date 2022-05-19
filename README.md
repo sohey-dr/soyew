@@ -12,3 +12,11 @@ cargo install trunk
 cargo install --locked trunk
 cargo install wasm-bindgen-cli
 ```
+
+### Commands
+
+サーバー起動
+
+```bash
+trunk serve
+```
